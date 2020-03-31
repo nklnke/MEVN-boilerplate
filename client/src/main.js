@@ -4,6 +4,8 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import VueSweetalert2 from 'vue-sweetalert2'
+// import 'bootstrap'
+// import 'bootstrap/dist/css/bootstrap.css'
 
 Vue.use(VueSweetalert2)
 Vue.config.productionTip = false
